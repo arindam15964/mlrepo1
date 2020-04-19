@@ -1,2 +1,2 @@
 # mlrepo1
-repository for the colab notebook that i use in various competetion
+Repository for the colab notebooks that i made in various competetion.
